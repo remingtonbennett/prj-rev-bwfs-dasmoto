@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url(./images/pattern.jpeg);
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.hacksaw {
+  background-color: mediumspringgreen;
+}
+
+.artframes {
+  background-color: lightcoral;
+}
+
+.finnish {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
